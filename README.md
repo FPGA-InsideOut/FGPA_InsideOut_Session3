@@ -1,5 +1,6 @@
 # FGPA_InsideOut_Session3
-pipeline | valid/ready protocol | flow control examples
+pipeline | valid/ready protocol | basic flow control examples
+
 To do excersizes in Session3, get hdlgadgets from:
 
 https://github.com/FPGA-InsideOut/hdlgadgets
